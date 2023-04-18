@@ -109,6 +109,8 @@
 
 .cont2_div {
   display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 
 .div_svg {
@@ -120,4 +122,8 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
+}
+
+.logo_container {
+  text-align: center;
 }
