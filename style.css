@@ -15,7 +15,6 @@
 }
 
 .logo_container {
-  margin: 50px;
   font-size: 20px;
 }
 
@@ -36,6 +35,7 @@
   padding: 15px 40px;
   border-radius: 100px;
   font-size: 14px;
+  margin-top: 50px;
 }
 
 .btn-green {
@@ -89,6 +89,9 @@
 
 .section2 {
   text-align: center;
+  margin-top: 100px;
+  width: 90%;
+  margin: 0 auto;
 }
 
 .section2_container {
@@ -106,5 +109,15 @@
 
 .cont2_div {
   display: flex;
-  
+}
+
+.div_svg {
+  margin-bottom: 40px;
+}
+
+.cont_item {
+  padding: 90px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
