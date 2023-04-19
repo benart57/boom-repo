@@ -128,8 +128,12 @@
   text-align: center;
 }
 
-.footer_grid svg {
- 
-  background-color: aqua;
-  
+.grid_lists a {
+  list-style: none;
+  text-decoration: none;
+  color: rgb(32, 32, 32);
+}
+
+.footer_grid {
+  display: flex;
 }
