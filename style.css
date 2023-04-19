@@ -110,6 +110,7 @@
 .cont2_div {
   display: flex;
   align-items: center;
+  gap: 60px;
   justify-content: space-around;
 }
 
