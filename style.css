@@ -134,6 +134,33 @@
   color: rgb(32, 32, 32);
 }
 
+.grid_lists ul li {
+  list-style: none;
+  margin-bottom: 14px;
+}
+
 .footer_grid {
   display: flex;
+  gap: 80px;
+  align-items: center;
+  background-color: rgb(241, 241, 241);
+  padding: 35px;
+  margin-top: 100px;
+}
+
+.grid-icon {
+  width: 3%;
+  margin-left: 70px;
+}
+
+.grid-social {
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  padding-right: 70px;
+  cursor: pointer;
+}
+
+.social-icon {
+  margin-right: 40px;
 }
